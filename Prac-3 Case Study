@@ -1,0 +1,18 @@
+Here are some basic concepts of malware:
+
+Definition: Malware, or malicious software, is designed to harm, exploit, or otherwise compromise computer systems and networks.
+
+Types
+Virus: Attaches itself to legitimate files and spreads when the host file is executed.
+Worm: Self-replicating and spreads across networks without needing a host file.
+Trojan: Disguises itself as legitimate software to trick users into installing it.
+Ransomware: Encrypts files and demands ransom for decryption keys.
+Spyware: Collects user information without their knowledge.
+Adware: Displays unwanted ads, often bundled with free software.
+Infection Vector: Common ways malware spreads include email attachments, downloads, infected websites, and removable media.
+
+Purpose: Malware can steal data, disrupt services, gain unauthorized access, or create botnets for coordinated attacks.
+
+Detection and Removal: Antivirus software, firewalls, and regular system updates are essential for protecting against malware.
+
+Prevention: Safe browsing habits, avoiding suspicious downloads, and keeping software updated can reduce malware risks.
