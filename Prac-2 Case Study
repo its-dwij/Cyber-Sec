@@ -1,0 +1,7 @@
+The five phases of ethical hacking are:
+
+Reconnaissance: Gathering information about the target system to identify potential vulnerabilities.
+Scanning: Actively probing the target for open ports and services using tools to gather more detailed information.
+Gaining Access: Exploiting identified vulnerabilities to gain unauthorized access to the system.
+Maintaining Access: Establishing a backdoor or other methods to maintain access to the system for future exploitation.
+Clearing Tracks: Erasing evidence of the hacking activity to avoid detection and leave the system in its original state.
